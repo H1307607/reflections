@@ -1,0 +1,35 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+    the .git didrectosty is created. to do so use git init command. to check the status use git status. 
+
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+
+    a working derectory does not nessesey contain a tracing files but staging are always does
+    you can choos which files should be included in commits
+
+How can you use the staging area to make sure you have one commit per logical
+change?
+
+	
+
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+
+	in case of move to toword of some exprimantal changes or language versions.
+	The main branch (with fixed bugs and all frequied futures) will reamin
+	untouched while some new area can be explore.
+
+How do the diagrams help you visualize the branch structure?
+
+	it is easier to see branhc structure if it is presented by branch-tree-like
+	becouse you can see which commits are reacheable from partycular branch
+
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges
+manually?
+
