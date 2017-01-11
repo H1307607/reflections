@@ -13,3 +13,10 @@ Describe the differences between forks, clones, and branches. When would you use
 	created  from remote or local repository. Frok is e clone of refository make from Github
 	to onother Github acouunt
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+	That was my question wen i start advetures with programing and now I know that would be really hard
+	without those tools.
+
+
+
